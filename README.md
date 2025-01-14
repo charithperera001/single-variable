@@ -30,4 +30,4 @@ The program plots a graph with:
 
 ---
 
-Feel free to adjust this further or let me know if you want additional details!
+
